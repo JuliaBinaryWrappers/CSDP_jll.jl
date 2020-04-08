@@ -1,0 +1,113 @@
+[[CSDP]]
+arch = "i686"
+git-tree-sha1 = "10f32bb7a2e96a982c4e32a2d2f56422d725b360"
+libc = "musl"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "5d1b66a2b3343ae8d5bb9ebb0a8d85f679a778ff520c6015727edf1f279c4e59"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.i686-linux-musl.tar.gz"
+[[CSDP]]
+arch = "aarch64"
+git-tree-sha1 = "ce686aacc658bf50f33fbc332bc9e52697adef8a"
+libc = "musl"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "c464d05f902dc345e93f923c42de5f14d4304eed70410783d4ee09a063e29777"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.aarch64-linux-musl.tar.gz"
+[[CSDP]]
+arch = "i686"
+git-tree-sha1 = "316a9eeb76825c8f4e55b22395a5559738a3e98f"
+os = "windows"
+
+    [[CSDP.download]]
+    sha256 = "482a1c900a355cdda4c95a9d828a824f6a9be945552c2bd8df5fcec40fc10a20"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.i686-w64-mingw32.tar.gz"
+[[CSDP]]
+arch = "x86_64"
+git-tree-sha1 = "7aeb6cee5ec5ee373707c03a05610d972767e4ef"
+os = "windows"
+
+    [[CSDP.download]]
+    sha256 = "f92db47e3ef009fc1cab7e43884d412348ec986fa41d6ccde8131fa7405b76e3"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.x86_64-w64-mingw32.tar.gz"
+[[CSDP]]
+arch = "armv7l"
+git-tree-sha1 = "cb1949a4528e869411756bbff8c2159221d6fc13"
+libc = "glibc"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "12e95c107bf16a6ea4c8d14f57d8fee2dbf97e8a2c7d0c6c910a59946ea625cf"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[CSDP]]
+arch = "armv7l"
+git-tree-sha1 = "f31f3fb09f3886252ba0cf0aa20cd8f005f85dd8"
+libc = "musl"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "75940c6da1401e184958db9bdfaf37551a47e5e35ba1487943809f79350ea874"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.armv7l-linux-musleabihf.tar.gz"
+[[CSDP]]
+arch = "i686"
+git-tree-sha1 = "4b1137fc078263399caf07745dead17c3738e0e0"
+libc = "glibc"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "b0ede297c6d8678beabcdbbe10795084e4a58b2ec243ea53a79b61644d511bf6"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.i686-linux-gnu.tar.gz"
+[[CSDP]]
+arch = "x86_64"
+git-tree-sha1 = "75ae289407024b63c5bb7fa47a058b20d91782c7"
+libc = "glibc"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "bbd31aa4f7f6597a3f187cf5a45e3d7918048c6eec36852b64240a9b6bfc0dff"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.x86_64-linux-gnu.tar.gz"
+[[CSDP]]
+arch = "powerpc64le"
+git-tree-sha1 = "cb7353760ed253444af5be9f27b59da140928259"
+libc = "glibc"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "6384a0b95175fe3d2df471e4e03b416b6166b98803dc6980f49449f50424b930"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.powerpc64le-linux-gnu.tar.gz"
+[[CSDP]]
+arch = "x86_64"
+git-tree-sha1 = "8428ce1906fc7fb3aa7f4557ce1f0bc816aee618"
+os = "macos"
+
+    [[CSDP.download]]
+    sha256 = "f507ad3d977df72a45945b6ced97541c9d48e8c4bc857f4ccad3d34688bdbe57"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.x86_64-apple-darwin14.tar.gz"
+[[CSDP]]
+arch = "aarch64"
+git-tree-sha1 = "48afe2c47861949ba4b3fe10d1c8585b96adc297"
+libc = "glibc"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "ec59812d68f551e48bbb1857172352ec3d7b6ff9d6357389ad0612211c47177c"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.aarch64-linux-gnu.tar.gz"
+[[CSDP]]
+arch = "x86_64"
+git-tree-sha1 = "76b0dd5dd1035209dbd1b893c8f64b439da61211"
+os = "freebsd"
+
+    [[CSDP.download]]
+    sha256 = "1720c0444a7caef6151a1bc4dbb48988c295ff4508cc53b99f39724dfb9cf21d"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[CSDP]]
+arch = "x86_64"
+git-tree-sha1 = "35a6ad6ed528f1300177d82266adb131836f5d06"
+libc = "musl"
+os = "linux"
+
+    [[CSDP.download]]
+    sha256 = "613aa83ac3f8db6feb8f4668123f15e1e7519a758ea4e98c2e5c508d3fc02c36"
+    url = "https://github.com/JuliaBinaryWrappers/CSDP_jll.jl/releases/download/CSDP-v6.2.0+0/CSDP.v6.2.0.x86_64-linux-musl.tar.gz"
