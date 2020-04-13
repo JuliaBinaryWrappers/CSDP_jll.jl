@@ -1,6 +1,6 @@
 name = "CSDP_jll"
 uuid = "9ce75daa-2788-5e2c-ba1d-cf8c48367b27"
-version = "6.2.0+3"
+version = "6.2.0+4"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
