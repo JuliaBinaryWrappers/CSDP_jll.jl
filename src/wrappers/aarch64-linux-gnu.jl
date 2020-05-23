@@ -7,6 +7,7 @@ using CompilerSupportLibraries_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
+LIBPATH_default = ""
 
 # Relative path to `libcsdp`
 const libcsdp_splitpath = ["lib", "libcsdp.so"]
