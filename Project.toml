@@ -1,6 +1,6 @@
 name = "CSDP_jll"
 uuid = "9ce75daa-2788-5e2c-ba1d-cf8c48367b27"
-version = "6.2.0+10"
+version = "600.200.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -11,5 +11,5 @@ OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.1.0"
-julia = "1.0"
+JLLWrappers = "1.2.0"
+julia = "1.6"
